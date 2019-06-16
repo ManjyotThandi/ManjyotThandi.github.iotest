@@ -1,0 +1,29 @@
+body {
+  background-color: #5d5c61 
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* general */
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 10px auto;
+  clear: both;
+  background-color: #b1a296;
+}
+
+#image {
+  margin-top: 60px;
+}
+
+#navbar {
+  color: white;
+}
+
+#button {
+  margin-bottom: 10px;
+}
